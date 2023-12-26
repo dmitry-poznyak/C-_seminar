@@ -1,0 +1,14 @@
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.AssemblyInfoInputs.cache
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.AssemblyInfo.cs
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.csproj.CoreCompileInputs.cache
+C:\Users\dimap\Desktop\HomeWork\333\bin\Debug\net8.0\333.exe
+C:\Users\dimap\Desktop\HomeWork\333\bin\Debug\net8.0\333.deps.json
+C:\Users\dimap\Desktop\HomeWork\333\bin\Debug\net8.0\333.runtimeconfig.json
+C:\Users\dimap\Desktop\HomeWork\333\bin\Debug\net8.0\333.dll
+C:\Users\dimap\Desktop\HomeWork\333\bin\Debug\net8.0\333.pdb
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.dll
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\refint\333.dll
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.pdb
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\333.genruntimeconfig.cache
+C:\Users\dimap\Desktop\HomeWork\333\obj\Debug\net8.0\ref\333.dll
